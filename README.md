@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
   
 
 ### <div align="center">I'm Nirmal Savinda, a Computer Science Undergraduate 📖  and Cloud enthusiast ☁️</div>  
