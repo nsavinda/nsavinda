@@ -4,7 +4,7 @@
   
 # <div align="center"> Hey 👋</div> 
 
-### <div align="center">I'm Nirmal Savinda, a Computer Science Undergraduate 📖  and Cloud enthusiast ☁️</div>  
+### <div align="center">I'm Nirmal Savinda, a Computer Science Undergraduate 📖  and DevOps enthusiast ☁️</div>  
   
 
 - 🌱 I’m currently learning Cloud Technologies☁️  
