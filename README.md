@@ -7,7 +7,7 @@
 ### <div align="center">I'm Nirmal Savinda, a Computer Science Undergraduate 📖  and DevOps enthusiast ☁️</div>  
   
 
-- 🌱 I’m currently learning Cloud Technologies☁️  
+- 🌱 I’m currently learning eBPF👨‍💻
   
 
 - ❓ Ask me about anything related to Linux🐧  
